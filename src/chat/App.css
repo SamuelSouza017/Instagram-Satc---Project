@@ -1,0 +1,172 @@
+.tudo{
+height: 100%;
+width: 100%;
+}
+
+.dados{
+float: left;
+background-color: darkgray;
+width: 500px;
+height: 657px;
+}
+
+.foto1{
+float: left;
+background-color: #1C1C1C;
+width: 250px;
+height: 329px;
+}
+
+.circulo1{
+margin-left: 20px;
+position: relative;
+top: 20%;
+background-color: darkblue;
+width: 200px;
+height: 200px;
+border-radius: 360px;
+}
+
+.dadospessoa1{
+float: left;
+background-color: #1C1C1C	;
+width: 250px;
+height: 329px;
+}
+
+.foto2{
+position: relative;
+top: 50%;
+background-color: #363636;
+width: 250px;
+height: 327px;
+}
+
+.circulo2{
+margin-left: 20px;
+position: relative;
+top: 20%;
+background-color: darkred;
+width: 200px;
+height: 200px;
+border-radius: 360px;
+}
+
+.dadospessoal2{
+margin-left: 50%;
+background-color: #363636;
+width: 250px;
+height: 329px;
+}
+
+.nomeconversa{
+float: left;
+background-color: #808080;
+width: 866px;
+height:657px;
+}
+
+.nomepessoa{
+background-color: #4F4F4F;
+width: 866px;
+height: 80px;
+}
+
+.escrever{
+margin-top: 496px;
+background-color: #4F4F4F;
+width: 866px;
+height: 80px;
+}
+
+.nome1{
+position: relative;
+top:45%;
+font-weight: 600;
+font-size: 20px;
+color: white;
+}
+
+.nome2{
+position: relative;
+top:45%;
+font-weight: 600;
+font-size: 20px;
+color: white;
+}
+
+.online1{
+margin-left: 15px;
+position: relative;
+top:45%;
+font-weight: 600;
+font-size: 20px;
+color: green;
+}
+
+.online2{
+margin-left: 15px;
+position: relative;
+top:45%;
+font-weight: 600;
+font-size: 20px;
+color: red;
+}
+
+.espaçoescrever{
+border: 1px solid black;
+border-radius: 50px;
+margin-left: 15px;
+position: relative;
+top: 16%;
+width: 700px;
+height: 50px;
+}
+
+.espaçoescrever:focus{
+outline: none;
+}
+
+.enviar{
+border-radius: 50px;
+font-weight: 600;
+color:white;
+border: 1px solid black;
+margin-left: 20px;
+position: relative;
+top: 15%;
+background-color: green;
+width: 100px;
+height: 30px;
+}
+
+.enviar:focus{
+outline: none;
+}
+
+.nomegrupo{
+margin-top: 23px;
+float: left;
+color: white;
+font-weight: 600;
+margin-left: 20px;
+font-size: 20px;
+}
+
+.fotogrupo{
+margin-left: 20px;
+position: relative;
+top:15%;
+float: left;
+background-color: darkgray;
+border-radius: 360px;
+height: 50px;
+width: 50px;
+}
+
+.statuspessoa{
+margin-left: 20px;
+margin-top: 25px;
+position: relative;
+top: 31%;
+}
